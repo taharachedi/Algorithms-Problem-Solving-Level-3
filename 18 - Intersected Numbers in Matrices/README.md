@@ -54,5 +54,4 @@ Matrix2:
   3   0   1   
 
 Intersected Numbers in Matrices :  
-  1     1     2
-  3
+  1     2     3     3
