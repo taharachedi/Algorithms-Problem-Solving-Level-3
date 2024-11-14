@@ -51,7 +51,7 @@ Here’s an example of what the output will look like when the program runs:
 
 ```plaintext
 Please Enter Ur String:
-Hello World!
+HELLO World!
 
 Please Enter A Character:
 o
