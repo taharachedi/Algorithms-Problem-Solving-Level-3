@@ -1,4 +1,4 @@
-# 🎲 Problem 2: 3x3 Random Matrix Sum Calculator 
+# 🎲 Problem 2: Sum Each Row in Matrix
 
 > **A C++ program that generates a 3x3 matrix filled with random numbers, displays it, and calculates the sum of each row.**
 
