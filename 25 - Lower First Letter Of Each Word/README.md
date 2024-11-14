@@ -41,7 +41,7 @@ Here's an example of what the output will look like when the program runs:
 
 ```plaintext
 Please Enter Ur String: 
-HELLO world C++ programming
+Hello World C++ Programming
 
 String After Conversion : 
-hELLO world c++ programming
+hello world c++ programming
