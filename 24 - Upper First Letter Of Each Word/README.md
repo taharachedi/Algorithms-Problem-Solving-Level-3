@@ -13,7 +13,7 @@ This C++ program allows users to input a string and then converts the first lett
 - **String Input**: Prompts the user to enter a string 📜.
 - **Uppercase Conversion**: Converts the first letter of each word to uppercase 🔠.
 - **Handles Multiple Words**: Works with strings containing multiple words separated by spaces 🗣️.
-- **Simple User Interface**: Easy-to-use interface with clear instructions and output 🌈.
+- **Simple User Interface**: Easy-to-use interface with clear instructions and output .
 
 ---
 
