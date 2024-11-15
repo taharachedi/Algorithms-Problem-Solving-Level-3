@@ -46,3 +46,6 @@ This program reads a string from the user, splits it into individual words, and 
 ```plaintext
 Please Enter Ur String : 
 Hello world from ALTEN
+
+String After Reversing Words : 
+ALTEN from world Hello
