@@ -64,15 +64,15 @@ The **Client Management System** is a C++ program designed to manage client reco
 
 ### Input:
 ```plaintext
-Please Enter Ur Account Number: A1000
+Please Enter Ur Account Number: A100
 
 The Following are The Client Details:
 
-Account Number  : A1000
+Account  Number : A100
 PIN Code        : 1234
 Name            : Taha Rachedi
-Phone           : 555-1234
-Account Balance : 1000.5
+Phone           : 06 33 47 84 57
+Account Balance : 5000
 
 Are U Sure U want Delete This Client :(Y/N) ?Y
 
