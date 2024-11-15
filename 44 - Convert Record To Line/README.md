@@ -42,9 +42,9 @@ This program defines a structure `stClient` to store information about a client.
 Please Enter Client Data : 
 Enter Account Number : 123456789
 Enter PIN Code : 9876
-Enter Name : John Doe
+Enter Name : Taha 
 Enter Phone : 555-1234
 Enter Account Balance : 1000.50
 
 Client Record for Saving it : 
-123456789#//#9876#//#John Doe#//#555-1234#//#1000.5
+123456789#//#9876#//#Taha#//#555-1234#//#1000.5
