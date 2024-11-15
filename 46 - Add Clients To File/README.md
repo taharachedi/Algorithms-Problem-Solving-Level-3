@@ -61,4 +61,3 @@ Adding New Client :
 
 Client Added Successfully! Do U Want To Add More Clients ?  (Y/N)
 
-A100#//#1234#//#Taha Rachedi#//#06 33 47 84 57#//#5000.000000
