@@ -49,7 +49,7 @@ This program provides functionality to add client data (such as account number, 
 
 ## ▶️ Sample Execution
 
-### Input:
+### Example input and output:
 ```plaintext
 Enter Account Number : A100
 Enter PIN Code : 1234
