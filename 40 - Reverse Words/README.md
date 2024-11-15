@@ -42,7 +42,7 @@ This program reads a string from the user, splits it into individual words, and 
 
 ## ▶️ Sample Execution
 
-### Input:
+Example input and output:
 ```plaintext
 Please Enter Ur String : 
 Hello world from ALTEN
