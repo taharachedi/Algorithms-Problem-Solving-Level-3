@@ -62,12 +62,10 @@ Please Enter Account Number: A100
 
 The Following are The Client Details:
 
+
 Account  Number : A100
 PIN Code        : 1234
 Name            : Taha Rachedi
 Phone           : 06 33 47 84 57
 Account Balance : 5000
-
-
-
 
