@@ -33,7 +33,7 @@ This program allows the user to replace all instances of a specific word in a st
 
 ## ▶️ Sample Execution
 
-### Input:
+Example input and output:
 ```plaintext
 Original String : 
 Morocco is The Best Country Ever! Visca Morocco
