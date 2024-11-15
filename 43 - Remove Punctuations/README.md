@@ -31,7 +31,7 @@ This program defines a function `Remove_Punctuations()` that takes a string and 
 
 ## ▶️ Sample Execution
 
-### Input:
+### Example input and output:
 ```plaintext
 Original String : 
 Welcome To: USA ,it's A Great Country ; Visca USA!
