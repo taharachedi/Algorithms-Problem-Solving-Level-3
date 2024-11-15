@@ -74,14 +74,14 @@ The Following Are The Client Details :
 
 Account Number    : 123456
 PIN Code          : 1234
-Name              : John Doe
+Name              : Taha Rachedu
 Phone             : 555-1234
 Account Balance   : 1000.50
 
 Are U Sure U Want Update This Client ? (Y/N) Y
 
 Enter Ur PIN Code       : 5678
-Enter Ur Name           : Johnathan Doe
+Enter Ur Name           : Toto
 Enter Ur Phone          : 555-6789
 Enter Ur Accout Balance : 1200.75
 
