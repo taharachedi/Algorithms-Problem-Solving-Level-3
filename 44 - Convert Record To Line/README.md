@@ -37,7 +37,7 @@ This program defines a structure `stClient` to store information about a client.
 
 ## ▶️ Sample Execution
 
-### Input:
+### Example input and output:
 ```plaintext
 Please Enter Client Data : 
 Enter Account Number : 123456789
