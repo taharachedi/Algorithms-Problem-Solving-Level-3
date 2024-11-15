@@ -42,7 +42,7 @@ This program defines a structure `stClient` to store client information such as 
 
 ## ▶️ Sample Execution
 
-### Input:
+### Example input and output:
 ```plaintext
 Line Record is : 
 A100#//#1234#//#Taha Rachedi#//#06 33 47 84 57#//#5000.000000
