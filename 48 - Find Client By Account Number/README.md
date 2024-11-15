@@ -68,9 +68,6 @@ Name            : Taha Rachedi
 Phone           : 06 33 47 84 57
 Account Balance : 5000
 
-```plaintext
-Please Enter Account Number: A105
 
-Client With Account Number (A105) Not Found!
 
 
