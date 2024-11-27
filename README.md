@@ -1,13 +1,32 @@
-# 🧩Algorithms-Problem-Solving-Level-3
-🚀 Advanced Algorithms & Problem Solving 🧠
-This repository features 50 algorithm challenges solved in C++ from the "Algorithms and Problem Solving" course led by Dr. Mohammed Abu-Hadhoud.
+# 🚀 Algorithms Problem-Solving: Level 3 Mastery 💻  
 
-Key Focus Areas:
+## 🎓 Course Overview  
+This repository showcases **50 C++ algorithm challenges** completed as part of the *"Algorithms and Problem Solving"* course, led by **Dr. Mohammed Abu-Hadhoud**.  
 
-🔍 Decomposing complex problems into manageable functions
+## 🎯 Key Objectives  
+- 🔍 Decomposing complex problems into manageable functions  
+- 🛠️ Writing modular, clean code using structures and enums  
+- ⚡ Optimizing performance with function-based solutions  
 
-🛠️ Modular and clean code using structures, enums, and procedures
+## 🛠️ Technical Capabilities  
+- **Language**: C++  
+- **Programming Paradigm**: Procedural Programming  
+- **Core Techniques**:  
+  - Structures and enums  
+  - Function-based implementations  
+  - Algorithm optimization  
 
-⚡ Optimized performance through function-based solutions
+## 📊 Repository Summary  
+- **Total Challenges Solved**: 50  
+- **Complexity Level**: Intermediate to Advanced  
 
-This course has been an invaluable step in sharpening my problem-solving skills and enhancing my coding efficiency! 💡
+## 🌟 Skills Developed  
+- Advanced problem decomposition  
+- Efficient algorithm design  
+- Clean coding principles  
+- Performance optimization  
+
+## 🙏 Acknowledgments  
+Special thanks to **Dr. Mohammed Abu-Hadhoud** for his guidance and expertise.  
+
+*Continuously growing, one algorithm at a time!* 💻🧠  
